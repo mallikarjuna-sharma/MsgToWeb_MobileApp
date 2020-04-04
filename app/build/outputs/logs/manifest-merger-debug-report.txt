@@ -1,0 +1,203 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:2:1-40:12
+MERGED from [com.android.volley:volley:1.1.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/c67aad618019a989c1bedb91c1902689/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/8aee4e4caa5dcd97aacb62d38497a932/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/mallik/.gradle/caches/transforms-2/files-2.1/6a7da13f9e98ca74f1de5cde057887d4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/dcb333fc1e686f5eef514cfdce4da8ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/1012c138cbdfbd9c27ecb7947eaf7d2a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/adc1376d490e6a9a7985456266671e29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/7e721b39562e7f68e39e8ac4f53de78c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/415e59248b4cd1f53e909020cdd98470/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/7863247adf50c2061ede88764ea8fcfe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/79ea3d1bc7499a19015a56052436cec8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/87c3df47a4b92c944e7a731c6181603c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/adf42017b4ad1d1cf322ea442e365b36/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/5ddf91f15158f4ab4eeb865ee9978ea6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/14ee9244bd9be02af15b761fb62023b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/ade121fc243df92c9f40e411fffdd987/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/6284ea1d8f1b1455d86f14af2f90733c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/65c969d717652a9f7784aba8fb7e3bde/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/6b08a5cb9283190611b123e0d20d057a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/adce99d4518c1707c0786615bba5951f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mallik/.gradle/caches/transforms-2/files-2.1/2a48727ddfb2339a80e3c3c300cc1878/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/22ee74e3e5911f1682f4ee4b1e835eec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/5c0b22eaa985cc635f217b045d20a07b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/e0043c9071cc4efe6852b880ee0aa483/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mallik/.gradle/caches/transforms-2/files-2.1/207e59479fa55020e8efba7658e2db7c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mallik/.gradle/caches/transforms-2/files-2.1/1bb9ee3956aefd3e4e8b493ff9e08737/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mallik/.gradle/caches/transforms-2/files-2.1/50d970dc24fd26f1b33388feec53a32f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mallik/.gradle/caches/transforms-2/files-2.1/feedb731399d4f58ff03682d55f532d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/3cdba5b46b8603de172ce6a85a5a194f/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_SMS
+ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:6:5-70
+	android:name
+		ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:6:22-67
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:9:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:10:22-73
+application
+ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:12:5-38:19
+MERGED from [com.android.volley:volley:1.1.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/c67aad618019a989c1bedb91c1902689/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/c67aad618019a989c1bedb91c1902689/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/mallik/.gradle/caches/transforms-2/files-2.1/6a7da13f9e98ca74f1de5cde057887d4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/mallik/.gradle/caches/transforms-2/files-2.1/6a7da13f9e98ca74f1de5cde057887d4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/65c969d717652a9f7784aba8fb7e3bde/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/65c969d717652a9f7784aba8fb7e3bde/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/6b08a5cb9283190611b123e0d20d057a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/6b08a5cb9283190611b123e0d20d057a/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/65c969d717652a9f7784aba8fb7e3bde/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:18:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:19:9-44
+activity#com.example.msgtoweb.MessageActivity
+ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:20:9-62
+	android:name
+		ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:20:19-50
+receiver#com.example.msgtoweb.MyReceiver
+ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:22:9-29:20
+	android:enabled
+		ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:24:13-35
+	android:exported
+		ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:23:13-39
+intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
+ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:26:13-28:29
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:27:17-89
+	android:name
+		ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:27:25-79
+activity#com.example.msgtoweb.MainActivity
+ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:31:9-37:20
+	android:name
+		ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:31:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.volley:volley:1.1.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/c67aad618019a989c1bedb91c1902689/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/c67aad618019a989c1bedb91c1902689/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/8aee4e4caa5dcd97aacb62d38497a932/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/8aee4e4caa5dcd97aacb62d38497a932/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/mallik/.gradle/caches/transforms-2/files-2.1/6a7da13f9e98ca74f1de5cde057887d4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/mallik/.gradle/caches/transforms-2/files-2.1/6a7da13f9e98ca74f1de5cde057887d4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/dcb333fc1e686f5eef514cfdce4da8ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/dcb333fc1e686f5eef514cfdce4da8ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/1012c138cbdfbd9c27ecb7947eaf7d2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/1012c138cbdfbd9c27ecb7947eaf7d2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/adc1376d490e6a9a7985456266671e29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/adc1376d490e6a9a7985456266671e29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/7e721b39562e7f68e39e8ac4f53de78c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/7e721b39562e7f68e39e8ac4f53de78c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/415e59248b4cd1f53e909020cdd98470/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/415e59248b4cd1f53e909020cdd98470/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/7863247adf50c2061ede88764ea8fcfe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/7863247adf50c2061ede88764ea8fcfe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/79ea3d1bc7499a19015a56052436cec8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/79ea3d1bc7499a19015a56052436cec8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/87c3df47a4b92c944e7a731c6181603c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/87c3df47a4b92c944e7a731c6181603c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/adf42017b4ad1d1cf322ea442e365b36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/adf42017b4ad1d1cf322ea442e365b36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/5ddf91f15158f4ab4eeb865ee9978ea6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/5ddf91f15158f4ab4eeb865ee9978ea6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/14ee9244bd9be02af15b761fb62023b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/14ee9244bd9be02af15b761fb62023b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/ade121fc243df92c9f40e411fffdd987/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/ade121fc243df92c9f40e411fffdd987/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/6284ea1d8f1b1455d86f14af2f90733c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/6284ea1d8f1b1455d86f14af2f90733c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/65c969d717652a9f7784aba8fb7e3bde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/65c969d717652a9f7784aba8fb7e3bde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/6b08a5cb9283190611b123e0d20d057a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/6b08a5cb9283190611b123e0d20d057a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/adce99d4518c1707c0786615bba5951f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/adce99d4518c1707c0786615bba5951f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mallik/.gradle/caches/transforms-2/files-2.1/2a48727ddfb2339a80e3c3c300cc1878/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mallik/.gradle/caches/transforms-2/files-2.1/2a48727ddfb2339a80e3c3c300cc1878/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/22ee74e3e5911f1682f4ee4b1e835eec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/22ee74e3e5911f1682f4ee4b1e835eec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/5c0b22eaa985cc635f217b045d20a07b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/5c0b22eaa985cc635f217b045d20a07b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/e0043c9071cc4efe6852b880ee0aa483/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/e0043c9071cc4efe6852b880ee0aa483/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mallik/.gradle/caches/transforms-2/files-2.1/207e59479fa55020e8efba7658e2db7c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mallik/.gradle/caches/transforms-2/files-2.1/207e59479fa55020e8efba7658e2db7c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mallik/.gradle/caches/transforms-2/files-2.1/1bb9ee3956aefd3e4e8b493ff9e08737/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mallik/.gradle/caches/transforms-2/files-2.1/1bb9ee3956aefd3e4e8b493ff9e08737/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mallik/.gradle/caches/transforms-2/files-2.1/50d970dc24fd26f1b33388feec53a32f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mallik/.gradle/caches/transforms-2/files-2.1/50d970dc24fd26f1b33388feec53a32f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mallik/.gradle/caches/transforms-2/files-2.1/feedb731399d4f58ff03682d55f532d7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mallik/.gradle/caches/transforms-2/files-2.1/feedb731399d4f58ff03682d55f532d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/3cdba5b46b8603de172ce6a85a5a194f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mallik/.gradle/caches/transforms-2/files-2.1/3cdba5b46b8603de172ce6a85a5a194f/AndroidManifest.xml:20:5-44
+INJECTED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mallik/Library/Mobile Documents/com~apple~CloudDocs/Desktop/MsgToWeb_MobileApp/MsgToWeb_MobileApp/app/src/main/AndroidManifest.xml
