@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
         case MY_PERMISSION:
         {
             if(grantResults.length >0 && grantResults[0]==PackageManager.PERMISSION_GRANTED){
-                Toast toast =Toast.makeText(getApplicationContext(), "done", Toast.LENGTH_SHORT);
+                Toast toast =Toast.makeText(getApplicationContext(), "PERMISSION_GRANTED", Toast.LENGTH_SHORT);
                 toast.show();
             }
         }
