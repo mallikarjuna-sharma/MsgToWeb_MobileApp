@@ -38,6 +38,13 @@ menu -> build -> build modules/apk -> build apk
   - To read network ip address in mobile
   - To send received message to local server
   - To show message status
+  
+## App ScreenShots
+
+<img src="/readmeimg1.jpg" height="600" width="300"/>
+<img src="/readmeimg2.jpg" height="600" width="300"/>
+<img src="/readmeimg3.jpg" height="600" width="300"/>
+
 
 ### Contributing 🙌
 
