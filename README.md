@@ -71,5 +71,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Sharing 💗
 
-Project is open source. Feel free to make your own version. All you need to do is to fork this repository, edit [src/MsgToWeb.jsx] and server.js . Mark star ⭐ if you like the project.
+Project is open source. Feel free to make your own version. All you need to do is to fork this repository, edit Java and Xml files . Mark star ⭐ if you like the project.
 
